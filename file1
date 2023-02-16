@@ -1,9 +1,9 @@
 class add
-	{
-	def add(x,y)
-		{
-		z=x+y
-		return z
-		}
-	}	
+    {
+     def add(a,b)
+         { 
+         c=a+b
+         return c
+         }
+ } 
 

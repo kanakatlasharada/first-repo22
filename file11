@@ -1,7 +1,8 @@
 class
+  {
+    hello()
     {
-	hello()
-	     {
-	      print("good morning")
-	     }
+    print("hello world")
     }
+  }
+
